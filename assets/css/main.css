@@ -2505,6 +2505,9 @@
 
 /* Header */
 
+.main-logo{
+	clip-path: circle(60px at center);
+}
 	#header {
 		background-attachment: scroll,							scroll,					fixed;
 		background-image: url("images/top-3200.svg"), url("images/redforest.jpg"), url("../../images/redforest.jpg");
